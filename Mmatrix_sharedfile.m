@@ -2,6 +2,7 @@
 %Data for paper 'Voltage Feasibility-Constrained Peer-to-Peer Energy Trading with Polytopic Injection Domains'
 %Polytopic injections domain
 
+prosumer_bus=[1;2;3;6;9;11;12;17;23;25;27;28;29;30;33;35;36;37;40;41;42;43;46;48;49;50;51;53;54;55];
 
 kappa = 1.1436;
 
